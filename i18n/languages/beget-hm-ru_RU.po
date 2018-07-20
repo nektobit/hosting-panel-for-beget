@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Beget Hosting Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-15 05:16+0000\n"
+"PO-Revision-Date: 2018-06-15 05:33+0000\n"
+"Last-Translator: nektobit <nektobit@mail.ru>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: includes/class-begethm.php:111
+msgid "login and password can not be empty"
+msgstr "Заполните поля Логин и Пароль"
+
+#: includes/class-begethm.php:143
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/class-begethm.php:192 includes/class-begethm.php:224
+msgid "Unknown error, ask for help on the developer`s site"
+msgstr "Неизвестная ошибка, попросите помощи на сайте разработчика"
+
+#: includes/class-begethm.php:213
+msgid "The API works, click on the \"Save\" button"
+msgstr "API работает, нажмите на кнопку \"Сохранить\""
+
+#: includes/class-begethm.php:219
+msgid "Authorization error, check login and password"
+msgstr "Ошибка авторизации, убедитесь что правильно ввели Логин и Пароль"
+
+#: includes/class-begethm.php:237 includes/class-bhm-settings.php:36
+#: includes/class-bhm-settings.php:36
+msgid "Beget"
+msgstr "Бегет"
+
+#: includes/class-begethm.php:250 includes/class-bhm-settings.php:102
+msgid "General Information"
+msgstr "Основная информация"
+
+#: includes/class-begethm.php:253 includes/class-bhm-settings.php:106
+msgid "Hostin plan:"
+msgstr "Хостинг план:"
+
+#: includes/class-begethm.php:257 includes/class-bhm-settings.php:112
+msgid "Balance:"
+msgstr "Баланс:"
+
+#: includes/class-begethm.php:258 includes/class-bhm-settings.php:114
+msgid "$"
+msgstr "руб."
+
+#: includes/class-begethm.php:261 includes/class-bhm-settings.php:118
+msgid "Days to block:"
+msgstr "Дней до блокировки:"
+
+#: includes/class-bhm-settings.php:46
+msgid "Info"
+msgstr "Общая информация"
+
+#: includes/class-bhm-settings.php:49
+msgid "Server"
+msgstr "Сервер"
+
+#: includes/class-bhm-settings.php:78
+msgid "Helpful information"
+msgstr "Полезная информация"
+
+#: includes/class-bhm-settings.php:83
+#, php-format
+msgid "Are you still not a %sBeget%s customer?"
+msgstr "Вы еще не зарегестрированы на %sБегет%s хостинге?"
+
+#: includes/class-bhm-settings.php:138
+msgid "Server Information"
+msgstr "Информация о сервере"
+
+#: includes/class-bhm-settings.php:142
+msgid "Apache version:"
+msgstr "Версия Apache:"
+
+#: includes/class-bhm-settings.php:148
+msgid "MySQL version:"
+msgstr "Версия MySQL:"
+
+#: includes/class-bhm-settings.php:154
+msgid "Nginx version:"
+msgstr "Версия Nginx:"
+
+#: includes/class-bhm-settings.php:160
+msgid "Perl version:"
+msgstr "Версия Perl:"
+
+#: includes/class-bhm-settings.php:166
+msgid "Python version:"
+msgstr "Версия Python:"
+
+#: includes/class-bhm-settings.php:172
+msgid "Server name:"
+msgstr "Имя сервера:"
+
+#: includes/class-bhm-settings.php:178
+msgid "CPU name:"
+msgstr "Имя ЦПУ:"
+
+#: includes/class-bhm-settings.php:184
+msgid "Server Memory (mb):"
+msgstr "Память сервера (мб.)"
+
+#: includes/class-bhm-settings.php:190
+msgid "Server Current Memory (mb):"
+msgstr "Задействованная память сервера (мб)"
+
+#: includes/class-bhm-settings.php:196
+msgid "Server Loadaverage:"
+msgstr "Нагрузка на сервер:"
+
+#: includes/class-bhm-settings.php:202
+msgid "Server uptime:"
+msgstr "Аптайм сервера:"
+
+#: includes/class-bhm-settings.php:223
+msgid "Register Beget login and password"
+msgstr "Зарегестрируйте учетные данные Beget"
+
+#: includes/class-bhm-settings.php:230
+msgid "Login"
+msgstr "Логин"
+
+#: includes/class-bhm-settings.php:239
+msgid "Password"
+msgstr "Пароль"
+
+#: includes/class-bhm-settings.php:248
+msgid "Check"
+msgstr "Проверить"
+
+#: includes/class-bhm-settings.php:251
+msgid "Before saving, check the API availability"
+msgstr "Перед сохранением, проверьте доступность API"
+
+#: includes/class-bhm-settings.php:255
+msgid "Save Changes"
+msgstr "Сохранить"
+
+#. Name of the plugin
+msgid "Beget Hosting Manager"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Information panel for Beget hosting clients. Find out information about your "
+"account without leaving the admin panel of your site."
+msgstr ""
+"Информационная панель для клиентов хостинга Бегет. Получайте информацию о "
+"состоянии вашего аккаунта не выходя из админки сайта."
+
+#. URI of the plugin
+msgid "https://nektobit.ru/"
+msgstr ""
+
+#. Author of the plugin
+msgid "nektobit"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://nektobit.ru"
+msgstr ""

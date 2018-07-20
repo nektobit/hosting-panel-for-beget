@@ -1,0 +1,15 @@
+.beget_widget span {                    
+    min-width: 150px;                
+    display: inline-block;
+}
+.beget_widget p {
+    display: inline-block;
+    font-weight: 600;
+}
+.beget_widget li {
+    height: 1.6em;
+}
+.beget_attention {
+    margin-top: 10px;
+    color: red;
+}
