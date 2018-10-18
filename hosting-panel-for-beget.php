@@ -16,6 +16,8 @@
  * @author nektobit
  */
 
+ /* Тест */
+
 defined( 'ABSPATH' ) || exit;
 define( 'BEGET_PLUGIN_FILE', __FILE__ );
 define( 'BEGET_DOMAIN', 'beget-hm' );
